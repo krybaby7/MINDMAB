@@ -1,7 +1,0 @@
-[functions.v1-mindmap]
-verify_jwt = false
-
-[functions.v1-mindmap.env]
-SUPABASE_URL = "https://mgmpmqvoyosvydaeeabq.supabase.co"
-SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nbXBtcXZveW9zdnlkYWVlYWJxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY4MjU2MTMsImV4cCI6MjAzMjQwMTYxM30.9yQvC9Jwprv7qYhKv6Q4kZ3qZ3Q2W7X7X9Q9Q9Q9Q9Q"
-DEEPSEEK_API_KEY = "sk-aa6acb0f4b134fc49e90d80d64f0f950"
